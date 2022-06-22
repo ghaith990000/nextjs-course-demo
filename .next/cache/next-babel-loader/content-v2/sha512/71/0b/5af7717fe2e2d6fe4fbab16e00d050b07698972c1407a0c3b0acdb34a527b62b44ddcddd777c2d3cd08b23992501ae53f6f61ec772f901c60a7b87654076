@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nfunction MainMeetup() {\n  return /*#__PURE__*/_jsx(\"h1\", {\n    children: \"Hi\"\n  });\n}\n\nexport default MainMeetup;","map":null,"metadata":{},"sourceType":"module"}
